@@ -1,4 +1,4 @@
-swift
+Swift
 =====
 
 swiftTutorial and Demo 
