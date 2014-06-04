@@ -39,3 +39,5 @@ swiftTutorial and Demo
 ## others
 
 *    [iOS Developer Library](https://developer.apple.com/library/prerelease/ios/navigation/)
+*    Swift横空出世，Xcode 6 Beta有了哪些新变化？
+*    苹果编程语言Swift解析：将推动应用开发巨变
