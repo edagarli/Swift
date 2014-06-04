@@ -27,6 +27,8 @@ swiftTutorial and Demo
 [apple](https://developer.apple.com/library/prerelease/ios/samplecode/Adventure-Swift/Introduction/Intro.html#//apple_ref/doc/uid/TP40014639)
 [github](https://github.com/Lax/iOS-Swift-Demos/tree/master/AdventureBuildingaSpriteKitgameusingSwift)
 
+### others
+
 *    [FlappySwift](https://github.com/fullstackio/FlappySwift)  
 *    [iOS Developer Library](https://developer.apple.com/library/prerelease/ios/navigation/)
 *    [Swift横空出世，Xcode 6 Beta有了哪些新变化？](http://www.csdn.net/article/2014-06-03/2820045-WWDC-2014-Xcode-6-Beta)
