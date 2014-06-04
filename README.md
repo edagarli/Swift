@@ -10,7 +10,7 @@ swiftTutorial and Demo
 ### Official documents
 
 *    《[The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)》
-*    Kindle, EPUB 和 PDF版本 http://pan.baidu.com/s/1sjO4Ab7
+*    Kindle, EPUB and PDF http://pan.baidu.com/s/1sjO4Ab7
 
 
 ### Official demo
@@ -30,18 +30,12 @@ swiftTutorial and Demo
 
 ### demo 
 
-*    [FlappySwift](https://github.com/fullstackio/FlappySwift)  用Swift实现的FlappyBird
+*    [FlappySwift](https://github.com/fullstackio/FlappySwift)  
 
 ## develop tools
 ### xcode 6 beta download
 
-```xcode 6 bete install system required MacOSX 10.9.3+```
-
-*    http://pan.baidu.com/s/1pJug2xX  password: e6q2 
-*    http://pan.baidu.com/s/1bAgz0  
-
-*    http://adcdownload.apple.com//wwdc_2014/xcode_6_beta_ie8g3n/xcode_6_beta.dmg 使用迅雷离线更快
-
+*    http://adcdownload.apple.com//wwdc_2014/xcode_6_beta_ie8g3n/xcode_6_beta.dmg 
 ## others
 
 *    [iOS Developer Library](https://developer.apple.com/library/prerelease/ios/navigation/)
